@@ -8,7 +8,9 @@
 
  #include "MGMWimpDiffRatePdf.hh" 
  #include "RooAbsReal.h" 
- #include "TMath.h" 
+ #include "TMath.h"
+
+ using namespace std;
 
  ClassImp(MGMWimpDiffRatePdf) 
 

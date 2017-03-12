@@ -271,8 +271,8 @@ PACKAGE_VERSION=
 PACKAGE_STRING=
 PACKAGE_BUGREPORT=
 
-ac_unique_file="pyWIMP"
-ac_unique_file="pyWIMP/WIMPPdfs/MGMVWimpFormFactor.hh"
+ac_unique_file="pyWIMP_Halo"
+ac_unique_file="pyWIMP_Halo/WIMPPdfs/MGMVWimpFormFactor.hh"
 ac_subst_vars='SHELL PATH_SEPARATOR PACKAGE_NAME PACKAGE_TARNAME PACKAGE_VERSION PACKAGE_STRING PACKAGE_BUGREPORT exec_prefix prefix program_transform_name bindir sbindir libexecdir datadir sysconfdir sharedstatedir localstatedir libdir includedir oldincludedir infodir mandir build_alias host_alias target_alias DEFS ECHO_C ECHO_N ECHO_T LIBS build build_cpu build_vendor build_os host host_cpu host_vendor host_os DIRECTORIES EXTRALIBFLAGS EXTRACPPFLAGS SOFLAGS PYWIMPLIBEXTSHARED ROOTCONF ROOTEXEC ROOTCINT ROOTLIBDIR ROOTINCDIR ROOTCFLAGS ROOTLIBS ROOTGLIBS ROOTAUXLIBS ROOTAUXCFLAGS ROOTRPATH ROOTCXX CXX CXXFLAGS LDFLAGS CPPFLAGS ac_ct_CXX EXEEXT OBJEXT WARNINGFLAGS EXTRACXXFLAGS ALLTARGETDEPS LIBOBJS LTLIBOBJS'
 ac_subst_files=''
 
@@ -1373,7 +1373,7 @@ case "${host_cpu}" in
   # libs
 esac
 
-DIRECTORIES="pyWIMP/WIMPPdfs"
+DIRECTORIES="pyWIMP_Halo/WIMPPdfs"
 
 
 
